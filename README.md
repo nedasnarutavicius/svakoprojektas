@@ -1,2 +1,4 @@
 # svakoprojektas
-svakoprojektas PHP
+svakoprojektas PHP 
+=========Nedas Narutavičius=========
+=============SVAKO.LT==============
